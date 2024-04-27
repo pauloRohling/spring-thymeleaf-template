@@ -14,7 +14,7 @@ This repository provides a template for a pre-configured project with **Spring B
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/pauloRohling/spring-boot-thymeleaf-template.git
+   git clone https://github.com/pauloRohling/spring-thymeleaf-template.git
    ```
 
 2. Navigate to the project directory and install the dependencies:
