@@ -1,7 +1,7 @@
 # Spring Boot Thymeleaf Template
 
 This repository provides a template for a pre-configured project with **Spring Boot**, **Thymeleaf**,
-**Webflux**, **Gulp**, **Webpack**, **Tailwind** and **Prettier**, allowing a straightforward development experience.
+**Webflux**, **Gulp**, **Webpack**, **Tailwind** and **Prettier**, providing a straightforward development experience.
 
 ## Prerequisites
 
@@ -30,9 +30,11 @@ To run the project in development mode:
 
 1. Ensure you are in the `./src/main/javascript` directory
 2. Run the following command to start the Gulp watch task:
+
    ```bash
    npm start
    ```
+   
 3. Run the Spring Boot application
 
 ## Additional Information
