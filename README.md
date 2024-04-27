@@ -37,6 +37,26 @@ To run the project in development mode:
    
 3. Run the Spring Boot application
 
+## Build
+
+To build the project for production:
+
+1. Ensure you are in the `./src/main/javascript` directory
+2. Run the following command to build the assets:
+
+   ```bash
+   npm run build
+   ```
+   
+3. Navigate to the root directory of the project
+4. Run the following command to build the project:
+
+   ```bash
+   ./gradlew build
+   ```
+
+5. The built project will be available in the `./build/libs` directory.
+
 ## Additional Information
 
 - **Spring Boot Version**: 3.2.5
