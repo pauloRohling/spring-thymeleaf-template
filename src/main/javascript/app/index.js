@@ -1,5 +1,3 @@
-function sayHello() {
-    console.log("Hello World!");
-}
+import {sayHello} from "./home-page";
 
-sayHello()
+window.sayHello = sayHello;

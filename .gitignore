@@ -7,7 +7,7 @@ build/
 !**/src/test/**/build/
 **/javascript/node_modules
 **/javascript/dist
-**/resources/dist
+**/resources/static/dist
 
 ### STS ###
 .apt_generated

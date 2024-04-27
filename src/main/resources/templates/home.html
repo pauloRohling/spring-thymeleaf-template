@@ -6,9 +6,10 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Home Page</title>
-  <script src="../../javascript/dist/main.js"></script>
+  <link rel="stylesheet" th:href="@{~/dist/styles.css}"/>
+  <script th:src="@{~/dist/main.js}"></script>
 </head>
-<body>
+<body class="bg-gray-100">
 <h1 th:text="${title}">Home Page</h1>
 </body>
 </html>
