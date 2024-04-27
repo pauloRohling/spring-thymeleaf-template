@@ -1,4 +1,4 @@
-# Spring Boot Thymeleaf Template
+# Spring Thymeleaf Template
 
 This repository provides a template for a pre-configured project with **Spring Boot**, **Thymeleaf**,
 **Webflux**, **Gulp**, **Webpack**, **Tailwind** and **Prettier**, providing a straightforward development experience.
