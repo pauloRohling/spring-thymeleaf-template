@@ -1,13 +1,13 @@
-package com.stgw.springthymeleafgulpwebpack;
+package com.template.springthymeleaftemplate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringThymeleafGulpWebpackApplication {
+public class SpringThymeleafTemplateApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringThymeleafGulpWebpackApplication.class, args);
+		SpringApplication.run(SpringThymeleafTemplateApplication.class, args);
 	}
 
 }

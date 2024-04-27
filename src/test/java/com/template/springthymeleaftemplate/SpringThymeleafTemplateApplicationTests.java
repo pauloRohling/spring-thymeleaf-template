@@ -1,10 +1,10 @@
-package com.stgw.springthymeleafgulpwebpack;
+package com.template.springthymeleaftemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringThymeleafGulpWebpackApplicationTests {
+class SpringThymeleafTemplateApplicationTests {
 
 	@Test
 	void contextLoads() {

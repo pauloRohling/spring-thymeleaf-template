@@ -1,4 +1,4 @@
-package com.stgw.springthymeleafgulpwebpack.constants;
+package com.template.springthymeleaftemplate.constants;
 
 public class Templates {
 

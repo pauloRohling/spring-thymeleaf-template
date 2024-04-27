@@ -1,6 +1,6 @@
-package com.stgw.springthymeleafgulpwebpack.controller;
+package com.template.springthymeleaftemplate.controller;
 
-import com.stgw.springthymeleafgulpwebpack.constants.Templates;
+import com.template.springthymeleaftemplate.constants.Templates;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
