@@ -4,16 +4,20 @@
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
-    "gulp": "gulp"
+    "gulp": "gulp",
+    "prettier": "prettier --write ../resources/templates/**/*.html"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^10.0.0",
+    "gulp-prettier": "^6.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-uglifycss": "^1.1.0",
     "gulp-watch": "^5.0.1",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14",
     "sass": "^1.75.0",
     "tailwindcss": "^3.4.3",
     "webpack": "^5.91.0",
