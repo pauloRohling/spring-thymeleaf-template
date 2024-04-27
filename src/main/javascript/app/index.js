@@ -1,3 +1,3 @@
-import {sayHello} from "./home-page";
+import { sayHello } from "./home-page.js";
 
 window.sayHello = sayHello;
