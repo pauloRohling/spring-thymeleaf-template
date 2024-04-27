@@ -5,7 +5,7 @@
   "scripts": {
     "webpack": "webpack",
     "gulp": "gulp",
-    "prettier": "prettier --write ../resources/templates/**/*.html"
+    "prettier": "prettier --write ../resources/templates/**/*.html --plugin=prettier-plugin-tailwindcss"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
