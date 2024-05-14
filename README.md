@@ -37,6 +37,17 @@ To run the project in development mode:
    
 3. Run the Spring Boot application
 
+## Formatting with Prettier
+
+To format the code with Prettier:
+
+1. Ensure you are in the `./src/main/javascript` directory
+2. Run the following command to format the code:
+
+   ```bash
+   npm run format
+   ```
+
 ## Build
 
 To build the project for production:

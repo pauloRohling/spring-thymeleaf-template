@@ -5,12 +5,15 @@
   "type": "module",
   "scripts": {
     "start": "gulp",
-    "build": "gulp build"
+    "build": "gulp build",
+    "format": "gulp format",
+    "build:prod": "gulp build --env production"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
+    "gulp-environments": "^1.0.1",
     "gulp-postcss": "^10.0.0",
     "gulp-prettier": "^6.0.0",
     "gulp-sass": "^5.1.0",
